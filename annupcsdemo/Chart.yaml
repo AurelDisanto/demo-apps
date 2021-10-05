@@ -1,0 +1,8 @@
+apiVersion: v2
+name: annupcsdemo
+version: 0.1.0
+dependencies:
+  - name: shiny
+    version: 0.1.0
+    repository: https://inseefrlab.github.io/helm-charts
+    enabled: true
